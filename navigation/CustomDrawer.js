@@ -121,7 +121,7 @@ const CustomDrawerContent = ({navigation, selectedTab, setSelectedTab}) =>{
                     }}
                 >
                     <Text style={{color:COLORS.white,
-                    ...FONTS.h3}}>{dummyData.myProfile.name}</Text>
+                    ...FONTS.h3}}>ComScie Noobs</Text>
                     <Text style={{color: COLORS.white, 
                     ...FONTS.body4}}>View Dashboard</Text>
                 </View>
