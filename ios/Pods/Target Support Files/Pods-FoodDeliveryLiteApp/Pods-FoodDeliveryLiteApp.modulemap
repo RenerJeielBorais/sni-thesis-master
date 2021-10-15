@@ -1,0 +1,6 @@
+module Pods_FoodDeliveryLiteApp {
+  umbrella header "Pods-FoodDeliveryLiteApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
