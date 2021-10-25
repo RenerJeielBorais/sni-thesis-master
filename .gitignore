@@ -1,0 +1,8 @@
+
+*.bin
+*.lock
+*.properties
+*.xml
+*.so
+*.ttf
+*.jar

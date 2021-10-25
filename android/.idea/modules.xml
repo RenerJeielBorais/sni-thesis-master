@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FoodDeliveryLiteApp.iml" filepath="$PROJECT_DIR$/.idea/modules/FoodDeliveryLiteApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FoodDeliveryLiteApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FoodDeliveryLiteApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-664414174/FoodDeliveryLiteApp.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-664414174/FoodDeliveryLiteApp.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/322563829/FoodDeliveryLiteApp.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/322563829/FoodDeliveryLiteApp.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/942514951/FoodDeliveryLiteApp.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/942514951/FoodDeliveryLiteApp.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1148480007/FoodDeliveryLiteApp.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1148480007/FoodDeliveryLiteApp.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1397562910/FoodDeliveryLiteApp.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1397562910/FoodDeliveryLiteApp.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1672221770/FoodDeliveryLiteApp.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1672221770/FoodDeliveryLiteApp.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>
